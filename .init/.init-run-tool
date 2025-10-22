@@ -1,0 +1,4 @@
+{
+    "command": "./gradlew installDebug",
+    "working_directory": "/home/kavia/workspace/code-generation/mediaview-for-android-tv-91794/android_tv_frontend"
+}
