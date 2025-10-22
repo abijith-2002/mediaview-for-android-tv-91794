@@ -1,1 +1,3 @@
-# mediaview-for-android-tv-91794
+# Project Repository
+
+This is the initial README file for the project.
